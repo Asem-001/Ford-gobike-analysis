@@ -15,16 +15,42 @@ the dataset is Ford gobike service which is a dataset for the serivce that Ford 
 
 ## Visualization 1
 
+
+**The code for the visual:**
+
+![first Code](https://github.com/Asem-001/Ford-gobike-analysis/assets/117676536/a21f9390-fbc3-4ef5-924a-eec35cf2e31e)
+
+
 here in this plot will be showing the ratio between subscribers and the customers and the customers are way more than subscribers.
 
-**The code for the visual**
-```
-{
-x = df['user_type'].unique()
-y = df['user_type'].value_counts(normalize=True)
+![first visual](https://github.com/Asem-001/Ford-gobike-analysis/assets/117676536/80b2f35d-0530-41c6-beff-7803e00784bb)
+
+## Visualization 2
 
 
-plt.bar(x,y);
-plt.title('Bar chart of user type using the service');
-}
-```
+**The code for the visual:**
+
+![secondC](https://github.com/Asem-001/Ford-gobike-analysis/assets/117676536/d88d48ff-d516-4fd2-868b-9e91ab672fc9)
+
+
+this box plot compare the average between the genders and we can see that females having more duration more than males.
+
+![second](https://github.com/Asem-001/Ford-gobike-analysis/assets/117676536/6e42a968-73b0-40f8-8886-19adda0a3298)
+
+
+## Visualization 3
+
+
+**The code for the visual:**
+
+![thirdC](https://github.com/Asem-001/Ford-gobike-analysis/assets/117676536/4aeebe3c-2c2a-4182-a18c-7cf98ce8a4e9)
+
+this clustered bar chart is comparing which users type is sharing bike while comparing to their density as we can see the only users type that sharing the bike is the customer.
+
+![third](https://github.com/Asem-001/Ford-gobike-analysis/assets/117676536/5390d344-de9e-41eb-bc9e-95a06fe2454e)
+
+
+
+
+
+
