@@ -18,6 +18,7 @@ the dataset is Ford gobike service which is a dataset for the serivce that Ford 
 here in this plot will be showing the ratio between subscribers and the customers and the customers are way more than subscribers.
 
 **The code for the visual**
+```
 {
 x = df['user_type'].unique()
 y = df['user_type'].value_counts(normalize=True)
@@ -26,3 +27,4 @@ y = df['user_type'].value_counts(normalize=True)
 plt.bar(x,y);
 plt.title('Bar chart of user type using the service');
 }
+```
