@@ -1,6 +1,8 @@
 # Ford-gobike-analysis
 data analysis project for visualization
 
+before starting all the exploration analysis done before in this page it will be for the explanatory analysis so it would lack the cleaning part but feel free to check the exploration part to see how I cleaned the data 😄
+
 [The link for the dataset](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
 ---
 
